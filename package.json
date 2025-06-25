@@ -1,0 +1,19 @@
+{
+  "name": "parabankplaywrightautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.1",
+    "allure-commandline": "^2.34.0",
+    "allure-playwright": "^3.3.0"
+  },
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  }
+}

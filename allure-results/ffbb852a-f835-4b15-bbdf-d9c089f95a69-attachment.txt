@@ -1,0 +1,11 @@
+username:user756
+password:password756
+Displayed text on the Open Account Page: A minimum of $100.00 must be deposited into this account at time of opening. Please choose an existing account to transfer funds into the new account.
+Expected Amount: $100.00
+Displayed Account Number: 18117
+New Account Number: 18228
+Previous Account Number: 18117  Balance: $415.50
+New Account Number: 18228  Balance: $100.00
+Transfer details: $10.00 has been transferred from account #18228 to account #18117.
+expected_transferamt_text:$10.00 has been transferred from account #18228 to account #18117.
+Amount to be paid via Bill Pay:1

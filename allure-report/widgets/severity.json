@@ -1,0 +1,1 @@
+[{"uid":"3d628dc3235628e4","name":"Parabank WebUI test","time":{"start":1750873075418,"stop":1750873106845,"duration":31427},"status":"passed","severity":"normal"},{"uid":"40da3dc2cb87af85","name":"Parabank find transactions API call test","time":{"start":1750873109012,"stop":1750873109952,"duration":940},"status":"passed","severity":"normal"}]
