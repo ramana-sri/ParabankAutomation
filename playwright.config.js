@@ -16,7 +16,7 @@ export default defineConfig({
   testDir: './tests',
   timeout: 70*1000,   
   reporter: [['html'],['allure-playwright']],
-  globalTeardown: require.resolve('./global-teardown.js'),
+  //globalTeardown: require.resolve('./global-teardown.js'),
   use: { 
     viewport: { width: 1280, height: 680 },
     browserName:'chromium',
