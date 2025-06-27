@@ -1,0 +1,11 @@
+username:user607
+password:password607
+Displayed text on the Open Account Page: A minimum of $100.00 must be deposited into this account at time of opening. Please choose an existing account to transfer funds into the new account.
+Expected Amount: $100.00
+Displayed Account Number: 16563
+New Account Number: 16674
+Previous Account Number: 16563  Balance: $415.50
+New Account Number: 16674  Balance: $100.00
+Transfer details: $10.00 has been transferred from account #16674 to account #16563.
+expected_transferamt_text:$10.00 has been transferred from account #16674 to account #16563.
+Amount to be paid via Bill Pay:6

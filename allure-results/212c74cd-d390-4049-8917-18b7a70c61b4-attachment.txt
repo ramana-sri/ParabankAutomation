@@ -1,0 +1,28 @@
+[
+  {
+    id: 16363,
+    accountId: 16119,
+    type: 'Credit',
+    date: 1750982400000,
+    amount: 100,
+    description: 'Funds Transfer Received'
+  },
+  {
+    id: 16696,
+    accountId: 16119,
+    type: 'Debit',
+    date: 1750982400000,
+    amount: 10,
+    description: 'Funds Transfer Sent'
+  },
+  {
+    id: 17140,
+    accountId: 16119,
+    type: 'Debit',
+    date: 1750982400000,
+    amount: 7,
+    description: 'Bill Payment to user889'
+  }
+]
+Bill Payment Json Response Desciption: Bill Payment to user889
+Bill Payment Amount from Json Response: 7
