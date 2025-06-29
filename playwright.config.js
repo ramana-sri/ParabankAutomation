@@ -19,6 +19,7 @@ export default defineConfig({
   //globalTeardown: require.resolve('./global-teardown.js'),
   use: { 
     viewport: { width: 1280, height: 680 },
+    retries:2,
     browserName:'chromium',
     baseURL: "https://parabank.parasoft.com/",
     headless:false,
